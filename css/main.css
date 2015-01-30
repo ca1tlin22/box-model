@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+
+h1{
+  background-color: turquoise;
+  padding: 1em 2em .5em 3em;
+  margin: 0;
+  border: 5px dotted #000;
+  border-radius: 10px;
+}
+
+a{
+  background-color: orange;
+  display: block;
+}
